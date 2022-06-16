@@ -1,0 +1,10 @@
+body {
+   margin:0%;
+   font-family: sans-serif;
+   background-color: blue;
+}
+#page-heading {
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
